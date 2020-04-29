@@ -1,0 +1,11 @@
+tei-p {
+  color: blue;
+}
+
+tei-hi:: before {
+  content: "***"
+}
+
+tei-hi:: before {
+  content: "***"
+}
